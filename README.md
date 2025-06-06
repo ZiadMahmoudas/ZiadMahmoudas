@@ -32,10 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" alt="Angular"/> <b>19</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" style="width:1.5em;vertical-align:middle;"> ESLint
-  <img src="https://raw.githubusercontent.com/reactivex/rxjs/master/docs_app/assets/Rx_Logo_S.png" alt="RxJS" style="width:1.5em;vertical-align:middle;background:#fff;border-radius:50%;padding:0.15em;"> RxJS
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:1.5em;vertical-align:middle;background:#fff;border-radius:50%;padding:0.15em;"> GitHub
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:1.5em;vertical-align:middle;"> Git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"width="40" alt="ESLint" > 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" > 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width="40" alt="Git" > 
 
 </p>
 
