@@ -58,10 +58,10 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:ziadbobo78@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-ziadbobo78@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://github.com/ZiadMahmoudas" target="_blank" title="GitHub"><img src="https://img.shields.io/badge/GitHub-ZiadMahmoudas-181717?style=flat&logo=github"></a>
-  <a href="https://www.linkedin.com/in/ziad-mahmoud-mohammed/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Ziad%20Mahmoud-blue?style=flat&logo=linkedin"></a>
-  <a href="https://wa.me/201100133486" target="_blank" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp"></a>
+  <a href="mailto:ziadbobo78@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/ZiadMahmoudas" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/ziad-mahmoud-mohammed/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            <a href="https://wa.me/201100133486" target="_blank" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
 </p>
 <!--
 **ZiadMahmoudas/ZiadMahmoudas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
