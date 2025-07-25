@@ -70,9 +70,11 @@
   <a href="https://wa.me/201100133486" target="_blank" title="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
-    <a style="display:block" href="[https://wa.me/201100133486](https://ziadmahmoudas.github.io/zikoWebSite/)" target="_blank" title="WhatsApp">
-   <span style="color:#cc356f">Profile</span> Me
+<p align="center">
+  <a href="https://ziadmahmoudas.github.io/zikoWebSite/" target="_blank" title="Profile" style="display:block; margin-top:10px; text-decoration:underline; font-weight:bold; color:#cc356f; font-size:18px;">
+    🔗 Profile Me
   </a>
+</p>
 </p>
 <!--
 **ZiadMahmoudas/ZiadMahmoudas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
