@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
   </a>
 <p align="center">
-  <small>You Can Send Me . I'm Waiting for any Questions</small>
+  <small>You Can Send Me . I'm Waiting for any Questions 👉</small>
   <a href="https://ziko-web-site.vercel.app/" target="_blank" title="Profile" style="display:block; margin-top:10px; text-decoration:underline; font-weight:bold; color:#cc356f; font-size:18px;">
     🔗 Profile Me
   </a>
