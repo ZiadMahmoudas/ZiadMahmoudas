@@ -93,7 +93,7 @@ const developer = {
         tools: ["Git", "GitHub", "Node.js", "ESLint", "NPM"]
     },
     
-    architecture: ["MVC", "RESTful APIs", "Microservices", "SPA"],
+    architecture: ["WebAPI", "RESTful APIs", "SPA"],
     
     currentFocus: "Building scalable and performant web applications",
     
