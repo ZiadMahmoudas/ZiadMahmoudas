@@ -17,7 +17,6 @@ I'm a passionate **Full Stack Developer** specialized in building modern, scalab
 - 🔭 Currently working on cutting-edge projects with **Angular 20** and **ASP.NET Core**
 - 🌱 Always learning and exploring new technologies
 - 💡 Passionate about creating seamless user experiences
-- ⚡ Fun fact: I turn coffee into code ☕➡️💻
 
 ---
 
