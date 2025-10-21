@@ -127,22 +127,8 @@ const developer = {
 </p>
 
 ---
-
 <div align="center">
   
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ### 🎵 Currently Vibing To
-  [![Spotify](https://novatorem-YOUR_USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ZiadMahmoudas&color=blueviolet&style=for-the-badge)
   
   ### Show some ❤️ by starring some of my repositories!
   
