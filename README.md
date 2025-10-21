@@ -105,6 +105,9 @@ const developer = {
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+<p align="center">
+  In the name of God, the Most Gracious, the Most Merciful. Now then, do not stop, God willing, and God is Great.
+</p>
 <!--END_SECTION:activity-->
 
 ---
