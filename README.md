@@ -9,7 +9,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%26+.NET+Specialist+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;From+Egypt+🇪🇬)
   
 </div>
-<p><a href ="https://xo123456.netlify.app/games"></a>I am honored to play with people who are fighters and at the same time my friends.</p>
+<a href ="https://xo123456.netlify.app/games">I am honored to play with people who are fighters and at the same time my friends.</a>
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** specialized in building modern, scalable web applications. I love turning complex problems into elegant solutions and bringing ideas to life through clean, efficient code.
