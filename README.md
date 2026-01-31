@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/166008695?s=400&u=14cf8249663622fcc2c43b1cad1ecb8e47caf97a&v=4" width="140" style="border-radius:50%;" alt="Ziad Mahmoud" />
+  <img src="WhatsApp_Image_2026-01-31_at_9.08.14_AM_1_nzy8ry" width="140" style="border-radius:50%;" alt="Ziad Mahmoud" />
 </p>
 
 # 👋 Hi there, I'm Ziad Mahmoud!
