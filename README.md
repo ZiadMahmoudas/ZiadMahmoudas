@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[WhatsApp_Image_2026-01-31_at_9.08.14_AM_1_nzy8ry](https://res.cloudinary.com/dsqtrbbmw/image/upload/v1769843924/WhatsApp_Image_2026-01-31_at_9.08.14_AM_1_nzy8ry.jpg)" width="140" style="border-radius:50%;" alt="Ziad Mahmoud" />
+  <img src="https://res.cloudinary.com/dsqtrbbmw/image/upload/v1769843924/WhatsApp_Image_2026-01-31_at_9.08.14_AM_1_nzy8ry.jpg" width="140" style="border-radius:50%;" alt="Ziad Mahmoud" />
 </p>
 
 # 👋 Hi there, I'm Ziad Mahmoud!
