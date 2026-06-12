@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Angular+%26+.NET+Specialist+%F0%9F%92%BB;Laravel+%26+PHP+Backend+Engineer+%E2%9A%99%EF%B8%8F;WordPress+%26+CMS+Solutions+%F0%9F%93%B0;Crafting+Pixel-Perfect+UIs+with+Tailwind+%F0%9F%8E%A8" alt="Typing SVG" />
 
+  <a style="display:flex;justify-content:center;text-align:center;" href="https://www.linkedin.com/in/ziad-mahmoud-mohammed/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p>
-  <a href="https://www.linkedin.com/in/ziad-mahmoud-mohammed/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/201100133486"><img src="https://img.shields.io/badge/WhatsApp-3B82F6?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:ziadbobo78@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://curious-snickerdoodle-30c942.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -83,9 +83,37 @@ Passionate **Full Stack Developer** with hands-on experience across multiple eco
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZiadMahmoudas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
+name: Update README trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=ziadmahmoudas&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/trophy.svg
+          git commit -m "Update README trophy" || exit 0
+          git push
 
 <br/>
 
